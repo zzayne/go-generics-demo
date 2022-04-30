@@ -1,3 +1,3 @@
-module github.com/zzayne/go-generics-demo
+module github.com/zzayne/goexp
 
 go 1.18

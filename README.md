@@ -1,7 +1,3 @@
-# go-generics-demo
-Demo of go generics
+# goexp
 
-
-## Requirements
-
-Go version with generics
+Experience with go
